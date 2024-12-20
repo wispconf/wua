@@ -6,7 +6,7 @@ _Testeado en Debian 12, pero podria tambien funcionar en ubuntu o derivadas_
 ## Por medio del script en automatico
 
 ```
-wget https://raw.githubusercontent.com/Fibored/wau/refs/heads/main/install.sh
+wget https://raw.githubusercontent.com/wispconf/wau/refs/heads/main/install.sh
 ```
 
 ```
